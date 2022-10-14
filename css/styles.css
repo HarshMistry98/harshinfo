@@ -10,10 +10,10 @@ hr{
     width: 5%;
 }
 
-h1{
-    color: #66bfbf;
+.main{
+    color: blue;
 }
 
-h3{
-    color: #66bfbf;
+.submain{
+    color: crimson;
 }
