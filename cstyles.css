@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+    font-size: 25px;
+    background-image: url(images/background.jpg);
+}
+
+h1{ 
+    color: #4C6793;
+    margin: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+}
+
+h2{
+    color: #16213E;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    /* font-weight: normal; */
+}   
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #3F0071;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;  
+    margin: 50px auto 50px auto;
+    color: #0008C1;
+}
+
+.form{
+    width: 25%;
+    padding: 20px;
+    margin: 100px auto 100px auto;
+    border: 5px solid black;
+    border-radius: 2cm;
+    color: #16213E  ;
+}
